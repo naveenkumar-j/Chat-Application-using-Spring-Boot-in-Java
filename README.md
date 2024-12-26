@@ -1,4 +1,4 @@
-<h1 align="center">Chat Application using Spring Boot in Java</h1> 
+<h1 align="center" id="chat-application">Chat Application using Spring Boot in Java</h1> 
 
 - ### Tech Stack used:
 	<center>
@@ -48,5 +48,5 @@ A Chat Application is simple message application created using Spring Boot frame
 https://github.com/naveenkumar-j/Chat-Application-using-Spring-Boot-in-Java/assets/70682152/c26c1bc6-b83f-4e6c-b1cb-4a12d06edc72
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#chat-application">↥ back to top</a></b>
 </div>
